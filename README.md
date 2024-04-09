@@ -1,7 +1,7 @@
 Python image filters.
 
 # dependencies
-`pillow`
+```pillow```
 
 # dithering
 ![image](https://github.com/diamondTheRat/python-filters/assets/124006582/e2c96af4-d4b0-4ebc-b991-b790e0814093)
